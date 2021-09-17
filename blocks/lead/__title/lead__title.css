@@ -14,7 +14,7 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 850px) {
   .lead__title {
     min-width: calc(100% - 16px * 2);
     margin: 48px 16px 16px 16px;
